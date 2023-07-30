@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1
-
 Date: Sun, 30 Jul 2023 02:17:05 +0000
 MD5Sum:
  5d338593520f62a0bbfda8c490faf912               38 Release
@@ -106,9 +103,3 @@ SHA512:
  bd5acf0e83ec52b8df680f42ca81222d89d1703726d9f5322f6af84dcbbdda6aee8b70cccd25a2ff297edd5b63d9baa81cfda9888a08890633fa7a61ef28bec1               64 restricted/binary-i386/Packages.xz
  4837cb0c747b88cd66d2e8a7cb7fe2808a8fd9f967e467810a0dddfee9befdef8891f3be5c26e319d2ac8a869cb9e39d5ba1fb484db73231cec9fd66d1d5df33               40 restricted/source/Sources.gz
  bd5acf0e83ec52b8df680f42ca81222d89d1703726d9f5322f6af84dcbbdda6aee8b70cccd25a2ff297edd5b63d9baa81cfda9888a08890633fa7a61ef28bec1               64 restricted/source/Sources.xz
------BEGIN PGP SIGNATURE-----
-
-iF0EARECAB0WIQS2xtQ8WSp4eMl9SM5kUdjuh39cBgUCZMXJpwAKCRBkUdjuh39c
-Bma3AJ9dtX3rrwfDyn0J8g65QQ7rmWcjYACg4t9YQjC0GMXYXw4sropU/5B6mbk=
-=cFlc
------END PGP SIGNATURE-----
